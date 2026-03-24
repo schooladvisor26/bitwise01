@@ -1,0 +1,10 @@
+%% Day 7 Daily Challenge
+Take Home Challenge
+* Create a new repository in GitHub named "github-practice"
+* Clone the repository using SSH
+* BONUS: Add an index file and stylesheet to your local repository.
+
+- -
+My notes:
+Git: "please tell me who you are" error - Stack Overflow
+https://stackoverflow.com/questions/11656761/git-please-tell-me-who-you-are-error

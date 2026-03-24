@@ -1,0 +1,6 @@
+%% Day 7 Daily Challenge
+Daily Challenge
+Generate your own SSH key.
+
+Websites for Beginners - Day Seven
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/seven.html

@@ -1,0 +1,15 @@
+Day 9 Daily Challenge
+Go to github.com and create a new repository named "final-project"
+Clone the project using SSH
+Add the following to your final-project
+about.html
+contact.html
+index.html
+css folder
+style.css
+img folder
+
+Add, commit, and push your data to GitHub.
+
+Websites for Beginners - Day Nine
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/nine.html

@@ -1,0 +1,7 @@
+Day 2 Daily Challenge
+Create a New Folder in your Desktop...
+            Open that folder in VS Code
+            Create a new Visual Studio Code File in that folder
+            ...Unordered List
+
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/two.html

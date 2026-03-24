@@ -1,0 +1,25 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: #f0f900;
+    padding-left: 10px;
+    display:inline-block
+}
+
+.first {
+    background-color: #5F9EA0;
+}
+
+.second {
+    background-color: #6495ED;
+}
+
+.third {
+    background-color: #FF7F50;
+}
+
+.fourth {
+    background-color:#228B22;
+}
+
+/* Hexadecimal colors from: https://www.w3schools.com/cssref/css_colors.asp */

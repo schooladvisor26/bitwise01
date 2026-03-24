@@ -1,0 +1,14 @@
+Use buttons instead of a links for nav bars.
+For text links.
+
+Day 5 Daily Challenge
+Add the following to a new project folder
+* index file
+* css folder
+* stylesheet
+* image folder
+Reproduce this page structure: View Layout
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/img/semantic_layout.png
+
+Websites for Beginners - Day Five
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/five.html

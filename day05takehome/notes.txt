@@ -1,0 +1,9 @@
+%% Take Home challenge
+Use the daily challenge project and add the following.
+* Border
+* Background Image
+* Box Shadow
+* Text Shadow
+
+Websites for Beginners - Day Five
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/five.html

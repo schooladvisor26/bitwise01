@@ -1,0 +1,7 @@
+Day 1 Daily Challenge
+
+Create a index.html file in Visual Studio Code (VS Code)
+Copy the challenge into your file
+
+Websites for Beginners - Day One
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/one.html

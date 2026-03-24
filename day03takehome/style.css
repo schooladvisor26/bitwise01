@@ -1,0 +1,40 @@
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #A52A2A;
+}
+
+#home {
+    background-color: #5F9EA0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #5F9EA0 (cadet blue) on hover */
+li a:hover {
+    background-color: #5F9EA0;
+}
+
+* {
+    font-family: Arial, sans-serif;
+}
+
+/* 1-25-22 6:10 PM */
+/* img {
+    width: 6vw;
+    height: 6vw;
+    I added this to the day4challenge since that's what I'm supposed to do.
+    Add an image to my nav bar that is.
+} */

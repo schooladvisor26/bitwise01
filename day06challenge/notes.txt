@@ -1,0 +1,8 @@
+%% Daily challenge
+Use your project from Day 5 and add the following.
+* Create a sticky nav element at the top of your page
+* Add some links to your nav
+* Make sure your links open in a new tab
+
+Websites for Beginners - Day Six
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/six.html

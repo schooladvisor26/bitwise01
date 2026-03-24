@@ -1,0 +1,6 @@
+Day 3 Daily Challenge
+
+Using the Visual Studio Code file from your take home challenge: Add more boxes - the more the better Hide every other box so that it creates a checkerboard pattern
+
+Websites for Beginners - Day Three
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/three.html

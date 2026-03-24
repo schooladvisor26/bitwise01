@@ -1,0 +1,5 @@
+Day 2 Take Home Challenge
+
+Create a new Visual Studio Code File... Create 4 div elements as described...
+
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/two.html

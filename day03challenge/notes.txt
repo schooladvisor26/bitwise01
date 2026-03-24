@@ -1,0 +1,6 @@
+Day 3 Daily Challenge
+
+Create a new Visual Studio Code File... Create a horizontal navbar with 3 nav items...
+
+Websites for Beginners - Day Three
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/three.html

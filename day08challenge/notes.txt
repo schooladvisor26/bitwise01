@@ -1,0 +1,9 @@
+Day 8 Daily Challenge
+If you haven't already, add a
+* index file
+* stylesheet
+* Link it all
+* Add, commit, and push your code to your local repository
+
+Websites for Beginners - Day Eight
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/eight.html

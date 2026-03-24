@@ -1,0 +1,7 @@
+Day 8 Take Home Challenge
+* Add 2, 3, or 4 columns to your index
+* Add some content to each column
+* Add, commit, and push to your repo
+
+Websites for Beginners - Day Eight
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/eight.html

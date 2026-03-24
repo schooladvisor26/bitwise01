@@ -1,0 +1,6 @@
+Day 4 Daily Challenge
+
+Add a logo to the left side of your navbar... BONUS: Hyperlink your logo
+
+Websites for Beginners - Day Four
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/four.html
