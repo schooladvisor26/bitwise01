@@ -1,0 +1,37 @@
+p {
+    width: 100px;
+    height: 100px;
+    color: #0000ff;
+    font-family: Arial, sans-serif;
+    padding: 25px;
+}
+
+.Google {
+    width: 100px;
+    height: 100px;
+    color: #3cb371;
+    padding: 25px;
+}
+
+.Weebly {
+    width: 100px;
+    height: 100px;
+    color: #ff6d07;
+    padding: 25px;
+}
+
+.Zoho {
+    width: 100px;
+    height: 100px;
+    color: #6a5acd;
+    padding: 25px;
+}
+
+body{
+    background-color: lightblue;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}

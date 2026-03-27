@@ -1,0 +1,14 @@
+Day 10 Daily Challenge
+* Add two media elements to your project
+* (Probably means video, audio, and/or YouTube embeds)
+* Get your content on GitHub using CLI
+
+Websites for Beginners - Day Ten
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/ten.html
+
+Photo by University of Mobile on Unsplash
+
+https://unsplash.com/photos/ZPkG0EdWQa8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+
+Photo by University of Mobile (https://unsplash.com/@univofmobile?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+on Unsplash (https://unsplash.com/s/photos/school-building?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

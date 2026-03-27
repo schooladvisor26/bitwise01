@@ -1,0 +1,19 @@
+Day 9 Take Home Challenge
+* Start coding your final project
+* Import at least 2 google fonts
+* Import Font Awesome into the project
+* make a header and nav
+* Link all the pages in your nav
+* Copy your header and nave to all your web pages
+
+Websites for Beginners - Day Nine
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/nine.html
+
+2-9-22
+I would like the navigation bar (nav bar) to indicate what page I'm on.
+#done for Home and About pages.
+
+2-10-22
+Credits:
+ Images:
+ W3Schools code?

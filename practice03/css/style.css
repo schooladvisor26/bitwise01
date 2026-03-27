@@ -1,0 +1,27 @@
+.longbox{
+    width: 100vw;
+    height: 10vw;
+    border: black solid 2px;
+    margin: 5px;
+}
+.shortbox{
+    width: 60vw;
+    height: 20vw;
+    border: solid black 2px;
+    margin: 5px;
+}
+.asidebox{
+    height: 41vw;
+    width: 35vw;
+    border: black solid 2px;
+    margin: 5px;
+}
+.floatleft{
+    float: left;
+}
+.floatright{
+    float: right;
+}
+.clearboth{
+    clear: both;
+}

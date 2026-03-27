@@ -1,0 +1,11 @@
+SA26 burgandy
+880015
+rgb(136,0,21)
+
+light blue
+99D9EA
+rgb(153,217,234)
+
+#home {
+    background-color: #99D9EA;
+    padding: 16px;

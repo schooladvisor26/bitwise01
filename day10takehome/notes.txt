@@ -1,0 +1,8 @@
+Day 10 Take Home Challenge
+* Keep working on your final project
+* Ensure your master branch is up-to-date
+* Create a contact form in your final-project/contact.html
+* Get your content on GitHub using CLI
+
+Websites for Beginners - Day Ten
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/ten.html

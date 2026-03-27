@@ -1,0 +1,123 @@
+See ~Documents/bitwise01notes.txt for Computer basics notes
+
+Day Two
+More HTML
+Void Elements (aka Self-Closing Tags)
+<hr>
+<link>
+<meta>
+<br>
+...More (https://stackoverflow.com/questions/13915201/what-tags-in-html5-are-acknowledged-of-being-self-closing)
+Hyperlinks
+Entities
+Best Practices
+
+Nesting
+(https://www.w3schools.com/html/html_elements.asp#:~:text=Nested%20HTML%20Elements,consist%20of%20nested%20HTML%20elements.)
+
+CSS
+Cascading Style Sheet
+Syntax
+selector { property: value; }
+
+Readability
+selector {
+  property: value;
+}
+
+selector2 {
+  property: value;
+}
+
+/* comment */
+
+- -
+Color Resources
+W3Schools Color Picker
+Adobe Color Theme Creator
+Color Pick Eydropper Browser Extension (Chrome)
+ColorZilla Browser Extension (Chrome / Firefox)
+
+- -
+1-24-22
+4:03 PM
+The resources for CSS in W3Schools are short for D3.
+CSS element Selector
+(https://www.w3schools.com/cssref/sel_element.asp)
+You can select and style all <p> elements.
+
+CSS element,element Selector
+(https://www.w3schools.com/cssref/sel_element_comma.asp)
+You can select and style all <h2> and all <p> elemetns by seperating them with a comma in a stylesheet.
+
+CSS element element Selector
+(https://www.w3schools.com/cssref/sel_element_element.asp)
+"Select and style every <p> element that is inside <div> elements" by typing "div p {" without the double quotations.
+
+CSS .class Selector
+(https://www.w3schools.com/cssref/sel_class.asp)
+Ex.
+.class {
+
+}
+Select and style all elements with class labeled "intro."
+
+Ex. 1
+p.hometown {
+  background-color: yellow;
+}
+Style all <p> elements with "hometown" class.
+
+Ex. 2
+<p class="center big">This paragraph refers to two classes.</p>
+This <p> element will be styled to class "center" and "big."
+
+Long ones:
+https://www.w3schools.com/cssref/pr_class_display.asp
+
+
+https://www.w3schools.com/cssref/pr_class_visibility.asp
+
+
+HTML Lists
+(https://www.w3schools.com/html/html_lists.asp)
+<ul> Defines an unordered Lists
+<li>> defines an list item
+<dl> defines a description list
+<dt> defines a term in a description list
+<dd> describes a term description list
+
+<h3>A Description List</h3>
+<dl>
+  <dt>Gran Turismo</dt>
+  <dd>- a racing game</dd?
+  <dt>Scrabble</dt>
+  <dd>- a board game</dd>
+</dl>
+
+Navigation Bars
+Including navigation that is usable is important for any website.
+CSS can turn plain HTML menus into impressive-looking navigation bars.
+
+Remove bullets and padding from a ulul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+CSS Horizontal Navigation Bar
+Horizontal Navigation Bar
+Inline List Items
+Example
+Example explained
+
+- -
+1-25-22
+4:32 PM
+    <img alt="picture of snowflake" src="media/aaron-burden-5AiWn2U10cw-unsplash.jpg">
+    <!-- image dimensions width 3093 pixels, height 2320 pixels -->
+    <!--
+        Photo by Aaron Burden on Unsplash 
+        https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+    https://unsplash.com/s/photos/snow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+     -->

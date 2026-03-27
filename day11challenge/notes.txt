@@ -1,0 +1,4 @@
+Day 11 Daily Challenge
+Make sure your main branch is up to date...
+Copy and paste your footer to all of your pages
+Get your changes on to GitHub.com using bash in the integrated terminal.

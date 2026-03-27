@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+.titlecard {
+    width:25vw;
+    height: 12vw;
+    float: left;
+}
+
+.one {
+    background-color: #bbb;
+}
+
+.two {
+    background-color: #ccc;
+}
+
+.three {
+    background-color: #ddd;
+}
+
+.four {
+    background-color: #eee;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+}
+
+p {
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+/* Visit google fonts
+Fine one 
+Add style
+Click <link>
+Copy HTML "link" and css 
+See note on the index.html of this folder.*/

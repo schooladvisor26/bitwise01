@@ -1,0 +1,24 @@
+Day 10 Daily Challenge
+* Add two media elements to your project
+* (Probably means video, audio, and/or YouTube embeds)
+* Get your content on GitHub using CLI
+
+Websites for Beginners - Day Ten
+https://geekwiseacademy.github.io/virtual-websites-for-beginners/ten.html
+
+Photo by University of Mobile on Unsplash
+
+https://unsplash.com/photos/ZPkG0EdWQa8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+
+Photo by University of Mobile (https://unsplash.com/@univofmobile?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+on Unsplash (https://unsplash.com/s/photos/school-building?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+2-13-22
+3:39 PM
+Paragraph for About Page
+School Advisor 26 just might become a student club at schools like Fresno City College, Fresno State, or Fresno Pacific University. The name comes from my dream of being a school advisor since I was 26. My goal is to put in the work for the club before even making it an official club. I want to get enough attention and a following first. The first goal is to have more than twice the number of students needed to be a club to join the cause and then officially start it.
+
+...
+3:47 PM
+I guess I can add three columns to make it look good.
+I'm talking about the About page.
